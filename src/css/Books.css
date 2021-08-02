@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.header h1{
+    font-size: 5rem;
+}
+
+.searchbox input{
+    padding: 2rem;
+}
+
+.searchbox button{
+    height: 6rem;
+    width: 7rem;
+    margin-right: 1rem;
+}
+
+.searchbox i{
+    font-size: 3rem;
+}
+
+
+
+.card{
+    width: 70%;
+    margin-left: 8rem;
+    margin: 2rem;
+}
+
+.card img{
+   height: 12rem;
+}
+
+.card h5{
+    font-size: 2rem;
+}
+
+.card p{
+    font-size: 1.2rem;
+}
+
+.menus{
+    background-color: aquamarine;
+}
